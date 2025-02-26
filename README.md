@@ -66,7 +66,7 @@ neural-networks/
 ## 🛠️ Technologies Used
 
 - **Programming Language**: Python
-- **Libraries**: TensorFlow, PyTorch, NumPy, Matplotlib, Scikit-learn
+- **Libraries**: TensorFlow, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas, etc.
 
 ---
 
