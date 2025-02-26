@@ -97,20 +97,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Feel free to customize this template further to suit your specific project!
-
-## 📧 Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- <b>Email</b>: info@synchrolux.org
-- <b>GitHub</b>: https://github.com/SynchroLux-AI
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to customize this template further to suit your specific project!
