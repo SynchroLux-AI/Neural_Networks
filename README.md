@@ -62,14 +62,14 @@ neural-networks/
 --- 
 -->
 
-## 🛠️ Technologies Used
+<h2>## 🛠️ Technologies Used</h2>
 
 - <b>Programming Language</b>: Python
 - <b>Libraries</b>: TensorFlow, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas, etc.
 
 ---
 
-<h3></h3> 📊 Applications </h3>
+<h2> 📊 Applications </h2>
 
 Neural networks have a wide range of applications, including but not limited to:
 
@@ -80,7 +80,7 @@ Neural networks have a wide range of applications, including but not limited to:
 
 ---
 
-## 📧 Contact
+<h2>## 📧 Contact</h2>
 
 If you have any questions or suggestions, feel free to reach out:
 
@@ -89,6 +89,6 @@ If you have any questions or suggestions, feel free to reach out:
 
 ---
 
-## 📜 License
+<!--h2>## 📜 License</h2>
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details. -->
