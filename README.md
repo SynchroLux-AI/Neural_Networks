@@ -93,7 +93,3 @@ If you have any questions or suggestions, feel free to reach out:
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to customize this template further to suit your specific project!
