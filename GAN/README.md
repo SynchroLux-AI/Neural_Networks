@@ -41,3 +41,5 @@ The MNIST Fashion dataset is a popular dataset used in machine learning and comp
 <b>Dataset Size:</b> The dataset consists of 70,000 grayscale images, with 60,000 images in the training set and 10,000 images in the test set. 
 <b>Image Size:</b> Each image is 28x28 pixels in size, providing a uniform format for machine learning model input. ,, 
 <b>Classes:</b> The images are categorized into 10 different fashion-related classes, such as t-shirt, trouser, pullover, dress, coat, sandal, shirt, sneaker, bag, and ankle boot. ,
+
+<img src="https://github.com/SynchroLux-AI/Neural_Networks/edit/main/GAN/20_epochs_gan_imaeg.png" style="max-width: 100%; height: auto;" alt="My Image">
