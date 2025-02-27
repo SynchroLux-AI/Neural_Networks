@@ -10,17 +10,15 @@ Neural networks are a subset of machine learning algorithms inspired by the stru
 
 - An introduction to neural networks.
 - Code implementations of various neural network architectures.
-- Tutorials and examples to help you understand and build neural networks from scratch.
-- Resources for further learning.
-
+  
 ---
 
 ## 🧠 Features
 
-- **Comprehensive Tutorials**: Step-by-step guides to understanding and implementing neural networks.
-- **Code Examples**: Ready-to-use Python code for popular architectures like feedforward networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs).
-- **Visualization Tools**: Tools to visualize the training process and network performance.
-- **Real-World Applications**: Examples of neural networks applied to tasks like image classification, natural language processing, and more.
+<!--- **Comprehensive Tutorials**: Step-by-step guides to understanding and implementing neural networks. -->
+<!--- **Code Examples**: Ready-to-use Python code for popular architectures like feedforward networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs) -->.
+- <b>Visualization Tools</b>: Tools to visualize the training process and network performance.
+- <b>Real-World Applications</b>: Examples of neural networks applied to tasks like image classification, natural language processing, and more.
 
 ---
 
