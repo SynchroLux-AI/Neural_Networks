@@ -22,7 +22,7 @@ Neural networks are a subset of machine learning algorithms inspired by the stru
 
 ---
 
-## 🚀 Getting Started
+<!-- ## 🚀 Getting Started
 
 To get started with this repository, follow these steps:
 
@@ -59,23 +59,24 @@ neural-networks/
 └── README.md               # Project documentation
 ```
 
----
+--- 
+-->
 
 ## 🛠️ Technologies Used
 
-- **Programming Language**: Python
-- **Libraries**: TensorFlow, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas, etc.
+- <b>Programming Language</b>: Python
+- <b>Libraries</b>: TensorFlow, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas, etc.
 
 ---
 
-## 📊 Applications
+<h3></h3> 📊 Applications </h3>
 
 Neural networks have a wide range of applications, including but not limited to:
 
-- **Image Recognition**: Classifying objects in images.
-- **Natural Language Processing**: Sentiment analysis, language translation, and more.
-- **Time Series Analysis**: Predicting stock prices, weather forecasting, etc.
-- **Reinforcement Learning**: Training agents to play games or control robots.
+- <b>Image Recognition</b>: Classifying objects in images.
+- <b>Natural Language Processing</b>: Sentiment analysis, language translation, and more.
+- <b>Time Series Analysis</b>: Predicting stock prices, weather forecasting, etc.
+- <b>Reinforcement Learning</b>: Training agents to play games or control robots.
 
 ---
 
