@@ -33,3 +33,11 @@ GANs have a wide range of applications, including:<br>
 
 GANs represent a transformative step in artificial intelligence because they enable machines to generate new, high-quality data that closely resembles real-world data. 
 This capability has opened up new possibilities in creative industries, scientific research, and beyond.
+-------
+
+<h2> The MNIST Fashion Dataset </h2>
+The MNIST Fashion dataset is a popular dataset used in machine learning and computer vision tasks, particularly as an alternative to the classic MNIST dataset of handwritten digits.
+<h3>Key facts about the MNIST Fashion dataset:</h3>
+<b>Dataset Size:</b> The dataset consists of 70,000 grayscale images, with 60,000 images in the training set and 10,000 images in the test set. 
+<b>Image Size:</b> Each image is 28x28 pixels in size, providing a uniform format for machine learning model input. ,, 
+<b>Classes:</b> The images are categorized into 10 different fashion-related classes, such as t-shirt, trouser, pullover, dress, coat, sandal, shirt, sneaker, bag, and ankle boot. ,
