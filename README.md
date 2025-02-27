@@ -1,10 +1,10 @@
-# Neural Networks
+<h1> Neural Networks </h1>
 
 Welcome to the **Neural Networks** repository! This project is dedicated to exploring the fascinating world of neural networks, their architectures, and their applications in solving complex problems in machine learning and artificial intelligence.
 
 ---
 
-## 📖 Overview
+<h2> 📖 Overview </h2>
 
 Neural networks are a subset of machine learning algorithms inspired by the structure and functioning of the human brain. They are designed to recognize patterns, make predictions, and solve problems by learning from data. This repository provides:
 
@@ -13,7 +13,7 @@ Neural networks are a subset of machine learning algorithms inspired by the stru
   
 ---
 
-## 🧠 Features
+<h2> 🧠 Features </h2>
 
 <!--- **Comprehensive Tutorials**: Step-by-step guides to understanding and implementing neural networks. -->
 <!--- **Code Examples**: Ready-to-use Python code for popular architectures like feedforward networks, convolutional neural networks (CNNs), and recurrent neural networks (RNNs) -->.
@@ -62,7 +62,7 @@ neural-networks/
 --- 
 -->
 
-<h2>## 🛠️ Technologies Used</h2>
+<h2> 🛠️ Technologies Used</h2>
 
 - <b>Programming Language</b>: Python
 - <b>Libraries</b>: TensorFlow, PyTorch, NumPy, Matplotlib, Scikit-learn, Pandas, etc.
@@ -80,7 +80,7 @@ Neural networks have a wide range of applications, including but not limited to:
 
 ---
 
-<h2>## 📧 Contact</h2>
+<h2> 📧 Contact</h2>
 
 If you have any questions or suggestions, feel free to reach out:
 
