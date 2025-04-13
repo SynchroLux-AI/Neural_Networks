@@ -13,17 +13,36 @@ Fully Connected Layer: Combines extracted features to make predictions or classi
 This architecture enables CNNs to progressively learn from simple patterns (lines, shapes) to complex ones (faces, objects).
 
 <h3>Applications of CNNs</h3>
-CNNs have transformed numerous industries with their ability to analyze and interpret visual data:
+<h4> High Energy Physics and Particle Physics </h4>
+<b>Particle Collision Classification:</b>
 
-Image & Video Recognition: Powering facial recognition systems, autonomous vehicles, and video analytics.
+CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments like CMS at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks.
 
-Healthcare: Enhancing medical imaging by detecting diseases like cancer with greater accuracy.
+<b> Noise Reduction and Particle Tracking: </b>
 
-Retail & E-commerce: Driving personalized product recommendations and optimizing inventory management.
+CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.
 
-Industrial Automation: Improving quality control and predictive maintenance in manufacturing.
+<b>Jet Physics:</b>
 
-Natural Language Processing (NLP): Supporting tasks such as text classification and sentiment analysis.
+CNNs, including specialized architectures like Particle Convolution Networks (PCNs), are applied to jet tagging tasks (e.g., quark/gluon tagging, top quark tagging). These models leverage symmetries such as rotation invariance in the jet axis plane to improve classification accuracy.
+
+<b>Fast Detector Simulations:</b>
+
+<h2> Accelerator Physics </h2>
+CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.
+
+<b> Beam Dynamics Modeling </b>
+CNNs can model charged particle beam dynamics by approximating dynamical systems with high precision. For example:
+
+Physics-based Deep Neural Networks: These networks use symplectic regularization to ensure Hamiltonian system constraints, improving beam optics models and simulations for accelerators like PETRA III and PETRA IV at DESY.
+
+<b> Time Series Forecasting for Accelerator Control </b>
+CNNs can process multivariate time-series data from sensors and monitors within accelerators to:
+
+Predict beam behavior and optimize control parameters.
+
+Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
+
 
 <h3>Why Are CNNs So Powerful?</h3>
 CNNs leverage unique features like parameter sharing and local connectivity, allowing them to efficiently process high-dimensional data while maintaining spatial relationships. This makes them robust against variations in input data, such as changes in position, scale, or lighting.
