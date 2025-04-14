@@ -65,7 +65,7 @@ Enhance diagnostics and preemptive maintenance for complex facilities, ensuring 
     The speed of CNNs enables real-time detection and analysis of gravitational wave signals, supporting rapid follow-up observations with telescopes.
 </ol>
 
-<h2 id="why">$$\color{yellow}\text{Why Are CNNs So Powerful?}</h2>
+<h2 id="why">$$\color{yellow}\text{Why Are CNNs So Powerful?}$$</h2>
 CNNs leverage unique features like parameter sharing and local connectivity, allowing them to efficiently process high-dimensional data while maintaining spatial relationships. This makes them robust against variations in input data, such as changes in position, scale, or lighting.
 
 <!--h3>A Glimpse into the Future:</h3>
