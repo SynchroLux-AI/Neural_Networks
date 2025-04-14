@@ -117,4 +117,4 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
     <li>Parameter No: Number of weights </li>
 </ul>
 
-<img src="./plot_model.png"> Plot Model </img>
+<img src="./cnn_v1_plot_model.png" alt="CNN v1 Plot Model" width="500" height="400">
