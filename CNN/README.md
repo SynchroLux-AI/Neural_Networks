@@ -10,7 +10,7 @@
         <li><a href="#accelerator"> Accelerator Physics </a></li>
         <li><a href="#gravy"> Gravitational Wave Physics </a></li>
     </ul>
-    <li><a href="#sample"> An Exemplary CNN Model </a></li>
+    <li><a href="#sample"> An Exemplary CNN Model and Results </a></li>
   </ul></nav>
 
 <h2 id="what">$$\color{yellow}\text{What Are CNNs?}$$ </h2>
@@ -30,7 +30,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 
 <h3 id="hep"> High Energy Physics and Particle Physics </h3>
-Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br>
+Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
 
 <ol type="1">    
 <li> Noise Reduction and Particle Tracking:<br>
@@ -83,4 +83,4 @@ CNNs leverage unique features like parameter sharing and local connectivity, all
 <!--h3>A Glimpse into the Future:</h3>
 As CNNs continue to evolve, they are being integrated with other AI technologies like Generative Adversarial Networks (GANs) and Recurrent Neural Networks (RNNs), unlocking new possibilities in creative industries, autonomous systems, and beyond. <-->
 
-<h2 id="sample">$$\color{yellow}\text{An Exemplary CNN Model}$$ </h2>
+<h2 id="sample">$$\color{yellow}\text{An Exemplary CNN Model and Results}$$ </h2>
