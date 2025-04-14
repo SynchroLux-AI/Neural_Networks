@@ -32,20 +32,21 @@ CNNs, including specialized architectures like Particle Convolution Networks (PC
 </ol>
 
 <h2> Accelerator Physics </h2>
+<ol>
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.
 
-<b> Beam Dynamics Modeling </b>
+<li> Beam Dynamics Modeling </li>
 CNNs can model charged particle beam dynamics by approximating dynamical systems with high precision. For example:
 
 Physics-based Deep Neural Networks: These networks use symplectic regularization to ensure Hamiltonian system constraints, improving beam optics models and simulations for accelerators like PETRA III and PETRA IV at DESY.
 
-<b> Time Series Forecasting for Accelerator Control </b>
+<li> Time Series Forecasting for Accelerator Control </li>
 CNNs can process multivariate time-series data from sensors and monitors within accelerators to:
 
-Predict beam behavior and optimize control parameters.
+<li>Predict beam behavior and optimize control parameters.</li>
 
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
-
+</ol>
 
 <h3>Why Are CNNs So Powerful?</h3>
 CNNs leverage unique features like parameter sharing and local connectivity, allowing them to efficiently process high-dimensional data while maintaining spatial relationships. This makes them robust against variations in input data, such as changes in position, scale, or lighting.
