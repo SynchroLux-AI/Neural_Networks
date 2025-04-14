@@ -29,7 +29,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 
-<h3 id="hep"> High Energy Physics and Particle Physics </h3>
+<h3 id="hep"> High Energy Physics </h3>
 Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
 
 <ol type="1">    
@@ -60,9 +60,12 @@ Physics-based Deep Neural Networks: These networks use symplectic regularization
 
 <li> Time Series Forecasting for Accelerator Control </li>
 CNNs can process multivariate time-series data from sensors and monitors within accelerators to:
-
-<li>Predict beam behavior and optimize control parameters.</li>
-
+    <Ul>
+    <li>Predict beam behavior and optimize control parameters.</li>
+    <li>Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.</li>
+    <li>Predict beam behavior and optimize control parameters.</li>
+    </Ul>
+    
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
 </ol>
 
