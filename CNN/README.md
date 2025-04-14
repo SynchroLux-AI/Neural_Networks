@@ -119,4 +119,4 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
 
 <img src="./cnn_v1_plot_model.png" alt="CNN v1 Plot Model" style="width: 50%; height: auto;">
 
-<img src="./summary_1.png" alt="CNN v1 Model Summary" style="width: 50%; height: auto;">
+<img src="./summary_1_cnn_v1.png" alt="CNN v1 Model | Summary Table" style="width: 50%; height: auto;">
