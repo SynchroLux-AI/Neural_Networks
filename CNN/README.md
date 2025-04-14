@@ -8,7 +8,7 @@
     <ul>
         <li><a href="#hep"> Particle Physics </a></li>
         <li><a href="#accelerator"> Accelerator Physics </a></li>
-        <li><a href="#gravitational wave"> Gravitational Wave Physics </a></li>
+        <li><a href="#gravy"> Gravitational Wave Physics </a></li>
     </ul>
   </ul></nav>
 
@@ -60,7 +60,7 @@ CNNs can process multivariate time-series data from sensors and monitors within 
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
 </ol>
 
-<h4 id="gravitational waves"> Gravitational Wave Physics </h4>
+<h4 id="gravy"> Gravitational Wave Physics </h4>
 <ol>
 
   <li> Signal Detection and Noise Filtering: </li>
