@@ -13,22 +13,22 @@
     <li><a href="#sample"> An Exemplary CNN Model </a></li>
   </ul></nav>
 
-<h1 id="what" style="color: blue; background-color: yellow; padding: 10px;"> What Are CNNs? </h1>
+<h2 id="what" style="color: blue; background-color: yellow; padding: 10px;"> What Are CNNs? </h2>
 <!--h3 id="what"> What Are CNNs? </h3-->
 Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of deep learning models designed to process grid-like data structures, such as images. Inspired by the human brain's visual processing system, CNNs excel at recognizing patterns and features in visual inputs, making them indispensable in fields like computer vision and beyond.
 
-<h3 id="key"> Key Components of CNNs: </h3>
+<h2 id="key"> Key Components of CNNs: </h2>
 <ul>
-<li>Convolutional Layer: Extracts features using filters (kernels) that scan input data, identifying patterns like edges or textures.</li>
+<li><b>Convolutional Layer</b>: Extracts features using filters (kernels) that scan input data, identifying patterns like edges or textures.</li>
 
-<li>Pooling Layer: Reduces the spatial size of feature maps, retaining essential information while improving computational efficiency.</li>
+<li><b>Pooling Layer</b>: Reduces the spatial size of feature maps, retaining essential information while improving computational efficiency.</li>
 
-<li>Fully Connected Layer: Combines extracted features to make predictions or classifications.</li>
+<li><b>Fully Connected Layer</b>: Combines extracted features to make predictions or classifications.</li>
 
 This architecture enables CNNs to progressively learn from simple patterns (lines, shapes) to complex ones (faces, objects).
 </ul>
 
-<h3 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h3>
+<h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 <h4 id="hep"> High Energy Physics and Particle Physics </h4>
 <ol type="1">
 <l1>Particle Collision Classification:</l1>
@@ -46,7 +46,7 @@ CNNs, including specialized architectures like Particle Convolution Networks (PC
 <li>Fast Detector Simulations:</li>
 </ol>
 
-<h4 id="accelerator"> Accelerator Physics </h4>
+<h2 id="accelerator"> Accelerator Physics </h2>
 <ol type="1">
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
 
@@ -63,7 +63,7 @@ CNNs can process multivariate time-series data from sensors and monitors within 
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
 </ol>
 
-<h4 id="gravy"> Gravitational Wave Physics </h4>
+<h2 id="gravy"> Gravitational Wave Physics </h2>
 <ol type="1">
 
   <li> Signal Detection and Noise Filtering: </li>
@@ -79,11 +79,11 @@ Enhance diagnostics and preemptive maintenance for complex facilities, ensuring 
     The speed of CNNs enables real-time detection and analysis of gravitational wave signals, supporting rapid follow-up observations with telescopes.
 </ol>
 
-<h3 id="why">Why Are CNNs So Powerful?</h3>
+<h2 id="why">Why Are CNNs So Powerful?</h2>
 CNNs leverage unique features like parameter sharing and local connectivity, allowing them to efficiently process high-dimensional data while maintaining spatial relationships. This makes them robust against variations in input data, such as changes in position, scale, or lighting.
 
 <!--h3>A Glimpse into the Future:</h3>
 As CNNs continue to evolve, they are being integrated with other AI technologies like Generative Adversarial Networks (GANs) and Recurrent Neural Networks (RNNs), unlocking new possibilities in creative industries, autonomous systems, and beyond. <-->
 
-<h3 id="sample"> An Exemplary CNN Model </h3>
+<h2 id="sample"> An Exemplary CNN Model </h2>
 
