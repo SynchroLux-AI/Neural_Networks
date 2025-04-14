@@ -31,18 +31,12 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 <h2 id="hep"> High Energy Physics and Particle Physics </h2>
 <ol type="1">
-<l1>Particle Collision Classification:</l1>
-
+    <l1>Particle Collision Classification:</l1>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments like CMS at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks.
-
-<li> Noise Reduction and Particle Tracking: </li>
-
+    <li> Noise Reduction and Particle Tracking: </li>
 CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.
-
 <li>Jet Physics:</li>
-
 CNNs, including specialized architectures like Particle Convolution Networks (PCNs), are applied to jet tagging tasks (e.g., quark/gluon tagging, top quark tagging). These models leverage symmetries such as rotation invariance in the jet axis plane to improve classification accuracy.
-
 <li>Fast Detector Simulations:</li>
 </ol>
 
