@@ -26,8 +26,9 @@ Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of de
 <li>Fully Connected Layer: Combines extracted features to make predictions or classifications.</li>
 
 This architecture enables CNNs to progressively learn from simple patterns (lines, shapes) to complex ones (faces, objects).
+</ul>
 
-<h3 id="applications">Applications of CNNs</h3>
+<h3 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h3>
 <h4 id="hep"> High Energy Physics and Particle Physics </h4>
 <ol type="1">
 <l1>Particle Collision Classification:</l1>
