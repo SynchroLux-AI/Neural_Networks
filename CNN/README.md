@@ -29,7 +29,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 </ul>
 
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
-<h4 id="hep"> High Energy Physics and Particle Physics </h4>
+<h2 id="hep"> High Energy Physics and Particle Physics </h2>
 <ol type="1">
 <l1>Particle Collision Classification:</l1>
 
