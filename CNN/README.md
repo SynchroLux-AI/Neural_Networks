@@ -41,7 +41,7 @@ CNNs have been used for noise reduction and track identification in drift chambe
 CNNs, including specialized architectures like Particle Convolution Networks (PCNs), are applied to jet tagging tasks (e.g., quark/gluon tagging, top quark tagging). These models leverage symmetries such as rotation invariance in the jet axis plane to improve classification accuracy. </li>
 
 <li> Fast Detector Simulations:<br>
-CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments. </li>
+CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments. </li><br>
 
 <l1> 4. Particle Collision Classification:<br>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li>
