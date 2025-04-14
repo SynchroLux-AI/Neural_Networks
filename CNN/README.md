@@ -29,6 +29,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 
 <h3 id="accelerator"> Accelerator Physics | Plasma Physics </h3>
 <ol type="1">
+    
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
 
 <li> Beam Dynamics Modeling </li>
@@ -48,6 +49,7 @@ Enhance diagnostics and preemptive maintenance for complex facilities, ensuring 
 
 <h3 id="hep"> High Energy Physics and Particle Physics </h3>
 <ol type="1">
+    
 <l1> Particle Collision Classification: </l1><br>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks.<br>
 <li> Noise Reduction and Particle Tracking: </li><br>
