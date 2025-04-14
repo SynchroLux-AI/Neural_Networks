@@ -43,7 +43,7 @@ CNNs, including specialized architectures like Particle Convolution Networks (PC
 <li> Fast Detector Simulations:<br>
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments. </li>
 
-<l1> Particle Collision Classification:<br>
+<l1> 4. Particle Collision Classification:<br>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li>
 
 </ol>
