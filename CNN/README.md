@@ -31,7 +31,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 
 <h3 id="hep"> High Energy Physics and Particle Physics </h3>
 <!--ol type="1"-->
-<ul>
+<ul style="list-style-type: none;">
     <l1> 1. Particle Collision Classification: </l1>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks.
     <li> 2. Noise Reduction and Particle Tracking: </li>
