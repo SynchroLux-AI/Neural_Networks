@@ -10,7 +10,7 @@
         <li><a href="#accelerator"> Accelerator Physics </a></li>
         <li><a href="#gravy"> Gravitational Wave Physics </a></li>
     </ul>
-    <li> A Sample CNN Model </li>
+    <li> An Exemplary CNN Model </li>
   </ul></nav>
 
 <h1 id="what" style="color: blue; background-color: yellow; padding: 10px;"> What Are CNNs? </h1>
@@ -84,5 +84,5 @@ CNNs leverage unique features like parameter sharing and local connectivity, all
 <!--h3>A Glimpse into the Future:</h3>
 As CNNs continue to evolve, they are being integrated with other AI technologies like Generative Adversarial Networks (GANs) and Recurrent Neural Networks (RNNs), unlocking new possibilities in creative industries, autonomous systems, and beyond. <-->
 
-<h3 id="sample"> A Sample CNN Model </h3>
+<h3 id="sample"> An Exemplary CNN Model </h3>
 
