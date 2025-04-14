@@ -13,11 +13,11 @@
     <li><a href="#sample"> An Exemplary CNN Model </a></li>
   </ul></nav>
 
-<h2 id="what" style="color: blue; background-color: yellow; padding: 10px;"> What Are CNNs? </h2>
+<h3 id="what" style="color: blue; background-color: yellow; padding: 10px;"> What Are CNNs? </h3>
 <!--h3 id="what"> What Are CNNs? </h3-->
 Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of deep learning models designed to process grid-like data structures, such as images. Inspired by the human brain's visual processing system, CNNs excel at recognizing patterns and features in visual inputs, making them indispensable in fields like computer vision and beyond.
 
-<h2 id="key"> Key Components of CNNs: </h2>
+<h3 id="key"> Key Components of CNNs: </h3>
 <ul>
 <li><b>Convolutional Layer</b>: Extracts features using filters (kernels) that scan input data, identifying patterns like edges or textures.</li>
 
@@ -29,18 +29,19 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 </ul>
 
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
-<h2 id="hep"> High Energy Physics and Particle Physics </h2>
+
+<h3 id="hep"> High Energy Physics and Particle Physics </h3>
 <ol type="1">
     <l1>Particle Collision Classification:</l1>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments like CMS at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks.
     <li> Noise Reduction and Particle Tracking: </li>
 CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.
-<li>Jet Physics:</li>
+    <li>Jet Physics:</li>
 CNNs, including specialized architectures like Particle Convolution Networks (PCNs), are applied to jet tagging tasks (e.g., quark/gluon tagging, top quark tagging). These models leverage symmetries such as rotation invariance in the jet axis plane to improve classification accuracy.
-<li>Fast Detector Simulations:</li>
+    <li>Fast Detector Simulations:</li>
 </ol>
 
-<h2 id="accelerator"> Accelerator Physics </h2>
+<h3 id="accelerator"> Accelerator Physics </h3>
 <ol type="1">
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
 
@@ -57,7 +58,7 @@ CNNs can process multivariate time-series data from sensors and monitors within 
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
 </ol>
 
-<h2 id="gravy"> Gravitational Wave Physics </h2>
+<h3 id="gravy"> Gravitational Wave Physics </h3>
 <ol type="1">
 
   <li> Signal Detection and Noise Filtering: </li>
@@ -79,5 +80,5 @@ CNNs leverage unique features like parameter sharing and local connectivity, all
 <!--h3>A Glimpse into the Future:</h3>
 As CNNs continue to evolve, they are being integrated with other AI technologies like Generative Adversarial Networks (GANs) and Recurrent Neural Networks (RNNs), unlocking new possibilities in creative industries, autonomous systems, and beyond. <-->
 
-<h2 id="sample"> An Exemplary CNN Model </h2>
+<h2 id="sample">$$\color{yellow}\text{An Exemplary CNN Model}$$ </h2>
 
