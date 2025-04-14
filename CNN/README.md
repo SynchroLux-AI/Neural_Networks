@@ -1,6 +1,12 @@
 
 <h1> Convolutional Neural Networks (CNNs) Models </h1>
 
+<nav><ul>
+    <li><a href="#what"> What Are CNNs? </a></li>
+    <li><a href="#key"> Key Components of CNNs </a></li>
+    <li><a href="#appplications"> CNN Applications </a></li>
+  </ul></nav>
+
 <h3 id="what"> What Are CNNs? </h3>
 Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of deep learning models designed to process grid-like data structures, such as images. Inspired by the human brain's visual processing system, CNNs excel at recognizing patterns and features in visual inputs, making them indispensable in fields like computer vision and beyond.
 
