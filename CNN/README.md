@@ -32,7 +32,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 <h3 id="hep"> High Energy Physics and Particle Physics </h3>
 
 
-<h3 id="accelerator"> Accelerator Physics </h3>
+<h3 id="accelerator"> Accelerator Physics | Plasma Physics </h3>
 <ol type="1">
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
 
