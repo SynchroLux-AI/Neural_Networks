@@ -31,9 +31,9 @@ CNNs, including specialized architectures like Particle Convolution Networks (PC
 <li>Fast Detector Simulations:</li>
 </ol>
 
-<h2> Accelerator Physics </h2>
+<h4> Accelerator Physics </h4>
 <ol>
-CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.
+CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
 
 <li> Beam Dynamics Modeling </li>
 CNNs can model charged particle beam dynamics by approximating dynamical systems with high precision. For example:
@@ -46,6 +46,22 @@ CNNs can process multivariate time-series data from sensors and monitors within 
 <li>Predict beam behavior and optimize control parameters.</li>
 
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
+</ol>
+
+<h4> Gravitational Wave Physics </h4>
+<ol>
+
+  <li> Signal Detection and Noise Filtering: </li>
+       CNNs can process raw gravitational wave data to detect signals buried in noise. Their ability to extract features from time-series or spectrogram-like data makes them ideal for identifying weak gravitational wave signals.
+
+<li> Event Classification:</li>
+     CNNs can classify gravitational wave events based on their source (e.g., black hole mergers or neutron star collisions). By analyzing waveform patterns, they help determine the astrophysical origin of detected waves.
+
+<li>Parameter Estimation:</li>
+    CNNs assist in estimating parameters such as mass, spin, and distance of gravitational wave sources by analyzing waveform features.
+
+<li>Real-Time Data Analysis:</li>
+    The speed of CNNs enables real-time detection and analysis of gravitational wave signals, supporting rapid follow-up observations with telescopes.
 </ol>
 
 <h3>Why Are CNNs So Powerful?</h3>
