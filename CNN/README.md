@@ -13,7 +13,7 @@
     <li><a href="#sample"> An Exemplary CNN Model </a></li>
   </ul></nav>
 
-<h2 id="what">$$\text{What Are CNNs?}$$ </h2>
+<h2 id="what">$$\color{yellow}\text{What Are CNNs?}$$ </h2>
 Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of deep learning models designed to process grid-like data structures, such as images. Inspired by the human brain's visual processing system, CNNs excel at recognizing patterns and features in visual inputs, making them indispensable in fields like computer vision and beyond.
 
 <h3 id="key"> Key Components of CNNs: </h3>
@@ -30,7 +30,16 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 
 <h3 id="hep"> High Energy Physics and Particle Physics </h3>
-
+<ol type="1">
+    <l1> Particle Collision Classification:</l1>
+CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments like CMS at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks.
+    <li> Noise Reduction and Particle Tracking: </li>
+CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.
+    <li> Jet Physics:</li>
+CNNs, including specialized architectures like Particle Convolution Networks (PCNs), are applied to jet tagging tasks (e.g., quark/gluon tagging, top quark tagging). These models leverage symmetries such as rotation invariance in the jet axis plane to improve classification accuracy.
+    <li> Fast Detector Simulations:</li>
+    CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments
+</ol>
 
 <h3 id="accelerator"> Accelerator Physics | Plasma Physics </h3>
 <ol type="1">
