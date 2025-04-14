@@ -121,5 +121,5 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
 
 <img src="./summary_1_cnn_v1.png" alt="CNN v1 Model | Summary Table" style="width: 50%; height: auto;">
 
-Traninig with Cifar 10 datasets:
+Traninig with Cifar 10 datasets:<br>
 <img src="./animals_cnn_v1.png" alt="Animal Pictures" style="width: 60%; height: auto;">
