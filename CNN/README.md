@@ -29,24 +29,6 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 
-<h3 id="hep"> High-Energy Physics </h3>
-Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
-
-<ol type="1">    
-<li><b>Particle Collision Classification:</b><br>
-CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from collider experiments at LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li><br>
-    
-<li><b>Noise Reduction and Particle Tracking:</b><br>
-CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.</li><br>
-
-<li><b>Jet Physics:</b><br>
-CNNs, including specialized architectures like Particle Convolution Networks (PCNs), are applied to jet tagging tasks (e.g., quark/gluon tagging, top quark tagging). These models leverage symmetries such as rotation invariance in the jet axis plane to improve classification accuracy. </li><br>
-
-<li><b>Fast Detector Simulations:</b><br>
-CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments. </li>
-
-</ol>
-
 <h3 id="accelerator"> Accelerator Physics | Plasma Physics </h3>
 <ol type="1">
     
@@ -66,6 +48,24 @@ CNNs can process multivariate time-series data from sensors and monitors within 
     </Ul>
     
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
+</ol>
+
+<h3 id="hep"> High-Energy Physics </h3>
+Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
+
+<ol type="1">    
+<li><b>Particle Collision Classification:</b><br>
+CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from collider experiments at LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li><br>
+    
+<li><b>Noise Reduction and Particle Tracking:</b><br>
+CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.</li><br>
+
+<li><b>Jet Physics:</b><br>
+CNNs, including specialized architectures like Particle Convolution Networks (PCNs), are applied to jet tagging tasks (e.g., quark/gluon tagging, top quark tagging). These models leverage symmetries such as rotation invariance in the jet axis plane to improve classification accuracy. </li><br>
+
+<li><b>Fast Detector Simulations:</b><br>
+CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments. </li>
+
 </ol>
 
 <h3 id="gravy"> Gravitational Wave Physics </h3>
