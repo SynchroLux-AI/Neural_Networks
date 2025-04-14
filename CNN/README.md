@@ -43,7 +43,7 @@ Physics-based Deep Neural Networks: These networks use symplectic regularization
 CNNs can process multivariate time-series data from sensors and monitors within accelerators to:
     <Ul>
     <li>Predict beam behavior and optimize control parameters.</li>
-    <li>Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.</li>
+    <li>Enhance diagnostics and pre-emptive maintenance for complex facilities, ensuring operational stability.</li>
     <li>Predict beam behavior and optimize control parameters.</li>
     </Ul>
     
