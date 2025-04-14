@@ -4,7 +4,12 @@
 <nav><ul>
     <li><a href="#what"> What Are CNNs? </a></li>
     <li><a href="#key"> Key Components of CNNs </a></li>
-    <li><a href="#appplications"> CNN Applications </a></li>
+    <li><a href="#applications"> CNN Applications </a></li>
+    <ul>
+        <li><a href="hep"> Particle Physics</a> </li>
+        <li><a href="accelerator"> Accelerator Physics</a></li>
+        <li><a href="gravitational wave"> Gravitational Wave Physics</a></li>
+    </ul>
   </ul></nav>
 
 <h3 id="what"> What Are CNNs? </h3>
