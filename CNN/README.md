@@ -32,7 +32,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 <h3 id="hep"> High-Energy Physics </h3>
 Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
 
-<ol type="A">    
+<ol type="1">    
 <li><b>Particle Collision Classification:</b><br>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from collider experiments at LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li><br>
     
