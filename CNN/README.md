@@ -13,7 +13,7 @@
     <li><a href="#sample"> An Exemplary CNN Model </a></li>
   </ul></nav>
 
-<h3 id="what" style="color: blue; background-color: yellow; padding: 10px;"> What Are CNNs? </h3>
+<h2 id="what">$$\text{What Are CNNs?}$$ </h2>
 Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of deep learning models designed to process grid-like data structures, such as images. Inspired by the human brain's visual processing system, CNNs excel at recognizing patterns and features in visual inputs, making them indispensable in fields like computer vision and beyond.
 
 <h3 id="key"> Key Components of CNNs: </h3>
@@ -65,7 +65,7 @@ Enhance diagnostics and preemptive maintenance for complex facilities, ensuring 
     The speed of CNNs enables real-time detection and analysis of gravitational wave signals, supporting rapid follow-up observations with telescopes.
 </ol>
 
-<h2 id="why">Why Are CNNs So Powerful?</h2>
+<h2 id="why">$$\color{yellow}\text{Why Are CNNs So Powerful?}</h2>
 CNNs leverage unique features like parameter sharing and local connectivity, allowing them to efficiently process high-dimensional data while maintaining spatial relationships. This makes them robust against variations in input data, such as changes in position, scale, or lighting.
 
 <!--h3>A Glimpse into the Future:</h3>
