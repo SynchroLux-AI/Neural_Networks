@@ -1,5 +1,5 @@
 
-<h1> Convolutional Neural Networks (CNNs) Models </h1>
+<h1> 🧠 🤯 🌟 $$\color{yellow} Convolutional Neural Networks (CNNs) Models $$</h1>
 
 <nav><ul>
     <li><a href="#what"> What Are CNNs? </a></li>
