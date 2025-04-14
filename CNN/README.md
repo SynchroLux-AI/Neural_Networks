@@ -27,7 +27,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 
 <h3 id="applications">Applications of CNNs</h3>
 <h4 id="hep"> High Energy Physics and Particle Physics </h4>
-<ol>
+<ol type="1">
 <l1>Particle Collision Classification:</l1>
 
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments like CMS at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks.
@@ -44,7 +44,7 @@ CNNs, including specialized architectures like Particle Convolution Networks (PC
 </ol>
 
 <h4 id="accelerator"> Accelerator Physics </h4>
-<ol>
+<ol type="1">
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
 
 <li> Beam Dynamics Modeling </li>
@@ -61,7 +61,7 @@ Enhance diagnostics and preemptive maintenance for complex facilities, ensuring 
 </ol>
 
 <h4 id="gravy"> Gravitational Wave Physics </h4>
-<ol>
+<ol type="1">
 
   <li> Signal Detection and Noise Filtering: </li>
        CNNs can process raw gravitational wave data to detect signals buried in noise. Their ability to extract features from time-series or spectrogram-like data makes them ideal for identifying weak gravitational wave signals.
