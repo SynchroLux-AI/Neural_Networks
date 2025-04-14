@@ -91,3 +91,30 @@ CNNs leverage unique features like parameter sharing and local connectivity, all
 As CNNs continue to evolve, they are being integrated with other AI technologies like Generative Adversarial Networks (GANs) and Recurrent Neural Networks (RNNs), unlocking new possibilities in creative industries, autonomous systems, and beyond. <-->
 
 <h2 id="sample">$$\color{yellow}\text{An Exemplary CNN Model and Results}$$ </h2>
+
+<h3>Model Construction</h3>
+Divided into Filtering layers and Classification layers.
+
+Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
+
+<b> Conv2D: </b>
+<ul>
+    <li> Number of filters </li>
+    <li> Filter size </li>
+    <li> Stride: Default = 1 </li>
+</ul>
+
+<b> MaxPooling2D: </b>
+<ul>
+    <li>Filter size</li>
+    <li>Stride: Default = filter size</li>
+</ul>
+
+<b>model.summary():</b>
+<ul>
+    <li>Count the number of weights and analyze the model structure.</li>
+    <li>Output Shape: Feature map dimensions</li>
+    <li>Parameter No: Number of weights </li>
+</ul>
+
+<img src="./plot_model.png"> Plot Model </img>
