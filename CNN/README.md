@@ -47,7 +47,7 @@ CNNs can process multivariate time-series data from sensors and monitors within 
     <li>Predict beam behavior and optimize control parameters.</li>
     </Ul>
     
-Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
+Enhance diagnostics and pre-emptive maintenance for complex facilities, ensuring operational stability.
 </ol>
 
 <h3 id="hep"> High-Energy Physics </h3>
