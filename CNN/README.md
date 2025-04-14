@@ -10,7 +10,7 @@
         <li><a href="#accelerator"> Accelerator Physics </a></li>
         <li><a href="#gravy"> Gravitational Wave Physics </a></li>
     </ul>
-    <li> An Exemplary CNN Model </li>
+    <li><a href="sample"> An Exemplary CNN Model </a></li>
   </ul></nav>
 
 <h1 id="what" style="color: blue; background-color: yellow; padding: 10px;"> What Are CNNs? </h1>
