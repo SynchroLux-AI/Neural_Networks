@@ -48,6 +48,8 @@ Enhance diagnostics and preemptive maintenance for complex facilities, ensuring 
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 
 <h3 id="hep"> High Energy Physics and Particle Physics </h3>
+Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.
+
 <ol type="1">
     
 <l1> Particle Collision Classification: </l1><br>
