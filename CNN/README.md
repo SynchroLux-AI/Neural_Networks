@@ -32,7 +32,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 <h3 id="hep"> High Energy Physics and Particle Physics </h3>
 Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
 
-<ol type="1">    
+<ul type="1">    
     
 <li> Noise Reduction and Particle Tracking:<br>
 CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.</li>
@@ -46,7 +46,7 @@ CNNs can accelerate detector simulations by generating realistic outputs for exp
 <l1> 4. Particle Collision Classification:<br>
 CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li>
 
-</ol>
+</ul>
 
 <h3 id="accelerator"> Accelerator Physics | Plasma Physics </h3>
 <ol type="1">
