@@ -1,9 +1,10 @@
 
-<h1> Convolutional Neural Networks (CNNs) </h1>
-<h3> What Are CNNs? </h3>
+<h1> Convolutional Neural Networks (CNNs) Models </h1>
+
+<h3 id="what"> What Are CNNs? </h3>
 Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of deep learning models designed to process grid-like data structures, such as images. Inspired by the human brain's visual processing system, CNNs excel at recognizing patterns and features in visual inputs, making them indispensable in fields like computer vision and beyond.
 
-<h3> Key Components of CNNs: </h3>
+<h3 id="key"> Key Components of CNNs: </h3>
 <ul>
 <li>Convolutional Layer: Extracts features using filters (kernels) that scan input data, identifying patterns like edges or textures.</li>
 
@@ -13,8 +14,8 @@ Convolutional Neural Networks (CNNs), or ConvNets, are a specialized class of de
 
 This architecture enables CNNs to progressively learn from simple patterns (lines, shapes) to complex ones (faces, objects).
 
-<h3>Applications of CNNs</h3>
-<h4> High Energy Physics and Particle Physics </h4>
+<h3 id="applications">Applications of CNNs</h3>
+<h4 id="hep"> High Energy Physics and Particle Physics </h4>
 <ol>
 <l1>Particle Collision Classification:</l1>
 
@@ -31,7 +32,7 @@ CNNs, including specialized architectures like Particle Convolution Networks (PC
 <li>Fast Detector Simulations:</li>
 </ol>
 
-<h4> Accelerator Physics </h4>
+<h4 id="accelerator"> Accelerator Physics </h4>
 <ol>
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
 
@@ -48,7 +49,7 @@ CNNs can process multivariate time-series data from sensors and monitors within 
 Enhance diagnostics and preemptive maintenance for complex facilities, ensuring operational stability.
 </ol>
 
-<h4> Gravitational Wave Physics </h4>
+<h4 id="gravitational waves"> Gravitational Wave Physics </h4>
 <ol>
 
   <li> Signal Detection and Noise Filtering: </li>
@@ -64,7 +65,7 @@ Enhance diagnostics and preemptive maintenance for complex facilities, ensuring 
     The speed of CNNs enables real-time detection and analysis of gravitational wave signals, supporting rapid follow-up observations with telescopes.
 </ol>
 
-<h3>Why Are CNNs So Powerful?</h3>
+<h3 id="why">Why Are CNNs So Powerful?</h3>
 CNNs leverage unique features like parameter sharing and local connectivity, allowing them to efficiently process high-dimensional data while maintaining spatial relationships. This makes them robust against variations in input data, such as changes in position, scale, or lighting.
 
 <!--h3>A Glimpse into the Future:</h3>
