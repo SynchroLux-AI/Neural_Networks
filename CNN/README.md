@@ -29,10 +29,13 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 
-<h3 id="hep"> High Energy Physics </h3>
+<h3 id="hep"> High-Energy Physics </h3>
 Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
 
-<ol type="1">    
+<ol type="A">    
+
+<l1> Particle Collision Classification:<br>
+CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from collider experiments at LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li>
     
 <li> Noise Reduction and Particle Tracking:<br>
 CNNs have been used for noise reduction and track identification in drift chamber data, such as in the BESIII experiment. They effectively filter noise, label individual particle tracks, classify charges, and recognize particle pairs based on features like track curvature and transverse momentum.</li>
@@ -42,9 +45,6 @@ CNNs, including specialized architectures like Particle Convolution Networks (PC
 
 <li> Fast Detector Simulations:<br>
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments. </li>
-
-<l1> Particle Collision Classification:<br>
-CNNs can classify particle collision events by converting physical variables (e.g., momenta of particles and jets) into image-like representations. This approach has been tested with data from experiments at the LHC, demonstrating competitive performance compared to traditional methods like feedforward neural networks. </li>
 
 </ol>
 
