@@ -48,6 +48,11 @@ CNNs can process multivariate time-series data from sensors and monitors within 
     </Ul>
     
 Enhance diagnostics and pre-emptive maintenance for complex facilities, ensuring operational stability.
+<li>  Beam Diagnostics and Image Analysis </li>
+    <ul>
+        <li>Beam Shape Analysis: CNNs can process images of particle beams to determine their shape, size, and intensity distribution, which are critical for ensuring beam stability and quality.</li>
+        <li>Anomaly Detection: CNNs can identify irregularities in beam profiles, such as distortions or instabilities, which may indicate equipment malfunctions or operational issues.</li>
+    </ul>    
 </ol>
 
 <h3 id="hep"> High-Energy Physics </h3>
