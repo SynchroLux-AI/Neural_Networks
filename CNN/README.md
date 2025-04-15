@@ -128,5 +128,7 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
 
 Traninig with Cifar 10 datasets:<br>
 <img src="./animals_cnn_v1.png" alt="Animal Pictures" style="width: 60%; height: auto;">
-
-<img src="./training_validation_accuracy.png" alt="CNN v1 training_validation_accuracy" style="width: 50%; height: auto;">
+$$\color{yellow}\text{Accuracy vs. Epoch:}$$
+<img src="./training_validation_accuracy.png" alt="CNN v1 Training_Validation_Accuracy" style="width: 60%; height: auto;">
+$$\color{yellow}\text{Recall vs. Epoch:}$$
+<img src="./recall.png" alt="CNN v1 Recall" style="width: 60%; height: auto;">
