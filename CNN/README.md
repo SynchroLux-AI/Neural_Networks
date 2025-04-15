@@ -37,7 +37,7 @@ CNNs can accelerate detector simulations by generating realistic outputs for exp
 <li> Beam Dynamics Modeling </li>
 CNNs can model charged particle beam dynamics by approximating dynamical systems with high precision. For example:
 
-Physics-based Deep Neural Networks: These networks use symplectic regularization to ensure Hamiltonian system constraints, improving beam optics models and simulations for accelerators like PETRA III and PETRA IV at DESY.
+Physics-based Deep Neural Networks: These networks use symplectic regularization to ensure Hamiltonian system constraints, improving beam optics models and simulations for accelerators.
 
 <li> Time Series Forecasting for Accelerator Control </li>
 CNNs can process multivariate time-series data from sensors and monitors within accelerators to:
