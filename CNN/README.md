@@ -29,7 +29,7 @@ This architecture enables CNNs to progressively learn from simple patterns (line
 
 <h2 id="applications">$$\color{yellow}\text{Applications of CNNs}$$</h2>
 
-<h3 id="accelerator"> Accelerator Physics | Plasma Physics </h3>
+<h3 id="accelerator">📌 Accelerator Physics | Plasma Physics </h3>
 <ol type="1">
     
 CNNs can accelerate detector simulations by generating realistic outputs for experimental setups. This is particularly useful for large-scale simulations required in HEP experiments.<br>
@@ -55,7 +55,7 @@ Enhance diagnostics and pre-emptive maintenance for complex facilities, ensuring
     </ul>    
 </ol>
 
-<h3 id="hep"> High-Energy Physics </h3>
+<h3 id="hep">📌 High-Energy Physics </h3>
 Convolutional Neural Networks (CNNs) are transforming collider physics experiments by enabling the classification of particle collision events through innovative approaches, such as representing physical variables like momenta and jets as image-like data. These methods have demonstrated competitive performance in tasks like signal-versus-background discrimination, offering new insights into high-energy physics data analysis.<br><br>
 
 <ol type="1">    
@@ -73,7 +73,7 @@ CNNs can accelerate detector simulations by generating realistic outputs for exp
 
 </ol>
 
-<h3 id="gravy"> Gravitational Wave Physics </h3>
+<h3 id="gravy">📌 Gravitational Wave Physics </h3>
 <ol type="1">
 
   <li> Signal Detection and Noise Filtering: </li>
