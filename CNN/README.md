@@ -6,7 +6,7 @@
     <li><a href="#key"> Key Components of CNNs </a></li>
     <li><a href="#applications"> CNN Applications </a></li>
     <ul>
-        <li><a href="#accelerator"> Accelerator Physics </a></li>
+        <li><a href="#accelerator"> Accelerator Physics | Plasma Physics </a></li>
         <li><a href="#hep"> Particle Physics </a></li>        
         <li><a href="#gravy"> Gravitational Wave Physics </a></li>
     </ul>
