@@ -130,7 +130,7 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
     <img src='https://i.postimg.cc/YSTYNGNT/summary-1-cnn-v1.png' border='0' alt='summary-1-cnn-v1' style="width: 50%; height: auto;">
 </a><br><br>
 
-<b>Traninig with Cifar 10 datasets:</b><br>
+<b><h3>Traninig with Cifar 10 datasets:</h3></b><br>
 <a href='https://postimg.cc/LhsJF2Bz' target='_blank'>
     <img src='https://i.postimg.cc/05YDmNzH/animals-cnn-v1.png' border='0' alt='animals-cnn-v1'/>
 </a><br>
