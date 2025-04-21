@@ -125,18 +125,26 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
 <!--img src="./cnn_v1_plot_model.png" alt="CNN v1 Plot Model" style="width: 50%; height: auto;"-->
 <a href='https://postimg.cc/G8CvxNZX' target='_blank'>
     <img src='https://i.postimg.cc/0Q6ZP1Z1/cnn-v1-plot-model.png' border='0' alt='cnn-v1-plot-model' style="width: 50%; height: auto;">
-</a><br><br><br>
+</a><br><br>
 
 <a href='https://postimages.org/' target='_blank'>
     <img src='https://i.postimg.cc/YSTYNGNT/summary-1-cnn-v1.png' border='0' alt='summary-1-cnn-v1' style="width: 50%; height: auto;">
 </a><br>
 
-
-Traninig with Cifar 10 datasets:<br>
-<img src="./animals_cnn_v1.png" alt="Animal Pictures" style="width: 60%; height: auto;">
+<b>Traninig with Cifar 10 datasets:</b><br>
+<!--img src="./animals_cnn_v1.png" alt="Animal Pictures" style="width: 60%; height: auto;"-->
+<a href='https://postimg.cc/LhsJF2Bz' target='_blank'>
+    <img src='https://i.postimg.cc/05YDmNzH/animals-cnn-v1.png' border='0' alt='animals-cnn-v1'/>
+</a><br><br>
 
 <br><b>Accuracy vs. Epoch:</b><br>
 <img src="./training_validation_accuracy.png" alt="CNN v1 Training_Validation_Accuracy" style="width: 60%; height: auto;">
+<a href='https://postimages.org/' target='_blank'>
+    <img src='https://i.postimg.cc/BQJDCGDZ/training-validation-accuracy.png' border='0' alt='training-validation-accuracy' style="width: 60%; height: auto;">
+</a><br><br>
 
 <br><b>Recall vs. Epoch:</b><br>
-<img src="./recall_cnn.png" alt="CNN v1 Recall" style="width: 60%; height: auto;">
+<!--img src="./recall_cnn.png" alt="CNN v1 Recall" style="width: 60%; height: auto;"-->
+<a href='https://postimages.org/' target='_blank'>
+    <img src='https://i.postimg.cc/Pr6LzvTK/recall-cnn.png' border='0' alt='recall-cnn' style="width: 60%; height: auto;">
+</a>
