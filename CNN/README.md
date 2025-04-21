@@ -133,14 +133,14 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
 <b>Traninig with Cifar 10 datasets:</b><br>
 <a href='https://postimg.cc/LhsJF2Bz' target='_blank'>
     <img src='https://i.postimg.cc/05YDmNzH/animals-cnn-v1.png' border='0' alt='animals-cnn-v1'/>
-</a><br><br>
+</a><br>
 
-<br><b><h3> Accuracy vs. Epoch: </h3></b><br>
+<b><h3> Accuracy vs. Epoch: </h3></b><br>
 <a href='https://postimages.org/' target='_blank'>
     <img src='https://i.postimg.cc/BQJDCGDZ/training-validation-accuracy.png' border='0' alt='training-validation-accuracy' style="width: 60%; height: auto;">
-</a><br><br>
+</a><br>
 
-<br><b><h3> Recall vs. Epoch: </h3></b><br>
+<b><h3> Recall vs. Epoch: </h3></b><br>
 <a href='https://postimages.org/' target='_blank'>
     <img src='https://i.postimg.cc/Pr6LzvTK/recall-cnn.png' border='0' alt='recall-cnn' style="width: 60%; height: auto;">
 </a>
