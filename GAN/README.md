@@ -44,7 +44,8 @@ The MNIST Fashion dataset is a popular dataset used in machine learning and comp
 
 <br><h2> After 20 epochs </h2>
 <!--img src="20_epochs_gan_image.png" width="600" height="450" alt="My Image"-->
-<a href='https://postimg.cc/0znCXt2Z' target='_blank'><img src='https://i.postimg.cc/0znCXt2Z/20-epochs-gan-image.png' border='0' alt='20-epochs-gan-image'/></a><br>
+<a href='https://postimg.cc/0znCXt2Z' target='_blank'>
+<img src='https://i.postimg.cc/0znCXt2Z/20-epochs-gan-image.png' border='0' alt='20-epochs-gan-image'width='600' height='400'/></a><br>
 <br><h2> After 2,000 epochs </h2>
 <!--img src="2000_epochs_gan_image.png" width="600" height="450" alt="My Image"-->
 <a href='https://postimg.cc/njyK9g0V' target='_blank'>
