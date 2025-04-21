@@ -125,9 +125,8 @@ Filtering Layer: Use Conv2D and MaxPooling2D instead of Dense.
 <!--img src="./cnn_v1_plot_model.png" alt="CNN v1 Plot Model" style="width: 50%; height: auto;"-->
 <a href='https://postimg.cc/G8CvxNZX' target='_blank'>
     <img src='https://i.postimg.cc/0Q6ZP1Z1/cnn-v1-plot-model.png' border='0' alt='cnn-v1-plot-model' style="width: 50%; height: auto;">
-</a><br>
+</a><br><br><br>
 
-<!--img src="./summary_1_cnn_v1.png" alt="CNN v1 Model | Summary Table" style="width: 50%; height: auto;"-->
 <a href='https://postimages.org/' target='_blank'>
     <img src='https://i.postimg.cc/YSTYNGNT/summary-1-cnn-v1.png' border='0' alt='summary-1-cnn-v1' style="width: 50%; height: auto;">
 </a><br>
