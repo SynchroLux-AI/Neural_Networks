@@ -27,5 +27,9 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <p align=center> Accuracy
 <img src="https://app.box.com/s/15tw308cye2uyqep5zbh0jcu7l341rhu" alt="Description of the image" width="400"></p>
 
+<a href='https://app.box.com/s/15tw308cye2uyqep5zbh0jcu7l341rhu' target='_blank'>
+    <img src='https://app.box.com/s/15tw308cye2uyqep5zbh0jcu7l341rhu' border='0' alt='alexnet_accuracy' style="width: 50%; height: auto;">
+</a><br><br>
+
 
 
