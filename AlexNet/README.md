@@ -24,9 +24,6 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 
 <h2> Metric Plots for AlexNet Training </h2>
 
-<a href='https://app.box.com/s/15tw308cye2uyqep5zbh0jcu7l341rhu' target='_blank'>
-    <img src='https://app.box.com/s/15tw308cye2uyqep5zbh0jcu7l341rhu' border='0' alt='alexnet_accuracy' style="width: 50%; height: auto;">
-</a><br><br>
-
-
-
+<a href='https://postimages.org/' target='_blank'>
+<img src='https://i.postimg.cc/66zmqsL1/Alex-Net-top-1-accuracy-evo-fashion-mnist.png' border='0' alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'/>
+</a>
