@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html><head>
-    <title>Image Scaling Example</title>
-    <style>
-        img {
-            /* Styles applied to all <img> tags */
-            width: 70%;       /* Set width to 70% of its container */
-            height: auto;     /* Maintain aspect ratio */
-            display: block;   /* Allows for centering */
-            margin: 0 auto;   /* Center the image */
-        }
-
-        /* If you want to target only this specific image,
-           you'd give it an ID or a class in the HTML:
-           <img id="myAlexNetImage" ... />
-        */
-        #myAlexNetImage {
-            width: 500px; /* Specific width for this image */
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-
-    <a href='https://postimages.org/' target='_blank'>
-    <img src='https://i.postimg.cc/66zmqsL1/Alex-Net-top-1-accuracy-evo-fashion-mnist.png'
-         border='0'
-         alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'
-         id="myAlexNetImage" /> </a>
-
-</body></html>
-
-
 <center><h1> AlexNet </h1></center>
 
 AlexNet is a pioneering convolutional neural network (CNN) architecture that revolutionized the field of computer vision. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in 2012, it famously won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) by a significant margin, demonstrating the unprecedented power of deep learning for image classification.
@@ -55,9 +22,13 @@ Key architectural features and innovations of AlexNet include:
 AlexNet's success on ImageNet was a watershed moment, proving the efficacy of deep convolutional networks for large-scale image recognition and paving the way for subsequent, even deeper and more complex CNN architectures that continue to drive advancements in computer vision and artificial intelligence.
 
 <h2> Plot Model </h2>
-<a href='https://postimg.cc/dLQSHB8v' target='_blank'>
-<img src='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png' border='0' alt='plot-model-alexnet'/>
+<a href='https://postimages.org/' target='_blank'>
+<img src='https://i.postimg.cc/66zmqsL1/Alex-Net-top-1-accuracy-evo-fashion-mnist.png'
+     border='0'
+     alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'
+     style="width: 50%; height: auto; display: block; margin: 0 auto;" />
 </a>
+
 
 <h2> Metric Plots for AlexNet Training </h2>
 
