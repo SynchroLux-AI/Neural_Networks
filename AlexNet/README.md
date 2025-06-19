@@ -24,10 +24,17 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <h2> Plot Model </h2>
 <li> Dataset: Fashion MNIST </li><br>
 
-<a href='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png' target='_blank'>
+<!--a href='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png' target='_blank'>
 <img src='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png'
      border='0'
      alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'
+     style="width: 50%; height: auto; display: block; margin: 0 auto;" />
+</a-->
+
+<a href='https://postimages.org/' target='_blank'>
+<img src='https://i.postimg.cc/MKtVb2SP/top-1-accuracy-30epochs-alexnet.png'\
+     border='0'\
+     alt='top-1-accuracy-30epochs-alexnet'\
      style="width: 50%; height: auto; display: block; margin: 0 auto;" />
 </a>
 
