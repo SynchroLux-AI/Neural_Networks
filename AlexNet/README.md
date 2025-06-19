@@ -31,6 +31,7 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
      style="width: 50%; height: auto; display: block; margin: 0 auto;" />
 </a-->
 
+<h2> Metric Plots for AlexNet Training </h2>
 <a href='https://postimages.org/' target='_blank'>
 <img src='https://i.postimg.cc/MKtVb2SP/top-1-accuracy-30epochs-alexnet.png'\
      border='0'\
@@ -38,11 +39,10 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
      style="width: 50%; height: auto; display: block; margin: 0 auto;" />
 </a>
 
-<h2> Metric Plots for AlexNet Training </h2>
 
-<a href='https://postimages.org/' target='_blank'>
+<!--a href='https://postimages.org/' target='_blank'>
 <img src='https://i.postimg.cc/66zmqsL1/Alex-Net-top-1-accuracy-evo-fashion-mnist.png' border='0' alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'/>
-</a>
+</a-->
 
 <h2> Metric Plots for AlexNet Training Loss </h2>
 <a href='https://postimages.org/' target='_blank'>
