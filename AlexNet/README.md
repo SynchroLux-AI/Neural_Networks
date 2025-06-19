@@ -24,13 +24,6 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <h2> Plot Model </h2>
 <li> Dataset: Fashion MNIST </li><br>
 
-<!--a href='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png' target='_blank'>
-<img src='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png'
-     border='0'
-     alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'
-     style="width: 50%; height: auto; display: block; margin: 0 auto;" />
-</a-->
-
 <h2> Metric Plots for AlexNet Training </h2>
 <a href='https://postimages.org/' target='_blank'>
 <img src='https://i.postimg.cc/MKtVb2SP/top-1-accuracy-30epochs-alexnet.png'\
@@ -43,10 +36,12 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <img src='https://i.postimg.cc/6QBssvS5/precision-30epochs-alexnet.png'\
      border='0'\
      alt='precision-30epochs-alexnet'\
-     style="width: 35%; height: auto; display: block; margin: 0 auto;" />
+     style="width: 25%; height: auto; display: block; margin: 0 auto;" />
 </a>
 
 <h2> Metric Plots for AlexNet Training Loss </h2>
 <a href='https://postimages.org/' target='_blank'>
-<img src='https://i.postimg.cc/SRtdrhgS/alexnet-training-loss.png' border='0' alt='alexnet-training-loss'/>
+<img src='https://i.postimg.cc/SRtdrhgS/alexnet-training-loss.png'\
+     border='0'\
+     alt='alexnet-training-loss'/>
 </a>
