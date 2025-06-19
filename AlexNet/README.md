@@ -22,6 +22,11 @@ Key architectural features and innovations of AlexNet include:
 
 AlexNet's success on ImageNet was a watershed moment, proving the efficacy of deep convolutional networks for large-scale image recognition and paving the way for subsequent, even deeper and more complex CNN architectures that continue to drive advancements in computer vision and artificial intelligence.
 
+<h2> Plot Model </h2>
+<a href='https://postimg.cc/dLQSHB8v' target='_blank'>
+<img src='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png' border='0' alt='plot-model-alexnet'/>
+</a>
+
 <h2> Metric Plots for AlexNet Training </h2>
 
 <a href='https://postimages.org/' target='_blank'>
