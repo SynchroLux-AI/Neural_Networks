@@ -23,12 +23,11 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 
 <h2> Plot Model </h2>
 <a href='https://postimages.org/' target='_blank'>
-<img src='https://i.postimg.cc/66zmqsL1/Alex-Net-top-1-accuracy-evo-fashion-mnist.png'
+<img src='https://i.postimg.cc/yY04NpxJ/plot-model-alexnet.png'
      border='0'
      alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'
      style="width: 50%; height: auto; display: block; margin: 0 auto;" />
 </a>
-
 
 <h2> Metric Plots for AlexNet Training </h2>
 
