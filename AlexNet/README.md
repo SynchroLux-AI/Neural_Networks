@@ -1,3 +1,35 @@
+<!DOCTYPE html>
+<html><head>
+    <title>Image Scaling Example</title>
+    <style>
+        img {
+            /* Styles applied to all <img> tags */
+            width: 70%;       /* Set width to 70% of its container */
+            height: auto;     /* Maintain aspect ratio */
+            display: block;   /* Allows for centering */
+            margin: 0 auto;   /* Center the image */
+        }
+
+        /* If you want to target only this specific image,
+           you'd give it an ID or a class in the HTML:
+           <img id="myAlexNetImage" ... />
+        */
+        #myAlexNetImage {
+            width: 500px; /* Specific width for this image */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <a href='https://postimages.org/' target='_blank'>
+    <img src='https://i.postimg.cc/66zmqsL1/Alex-Net-top-1-accuracy-evo-fashion-mnist.png'
+         border='0'
+         alt='Alex-Net-top-1-accuracy-evo-fashion-mnist'
+         id="myAlexNetImage" /> </a>
+
+</body></html>
+
 
 <center><h1> AlexNet </h1></center>
 
