@@ -30,7 +30,7 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
      border='0'\
      alt='accuracy-alexnet-30epochs'\
      style="width: 35%; height: auto; display: block; margin: 0 auto;" />
-</a>
+</a><br><br>
 
 <a href='https://postimages.org/' target='_blank'>
 <img src='https://i.postimg.cc/6QBssvS5/precision-30epochs-alexnet.png'\
