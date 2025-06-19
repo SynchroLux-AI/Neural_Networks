@@ -41,7 +41,7 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 
 <h2> Metric Plots for AlexNet Training Loss </h2>
 <a href='https://postimages.org/' target='_blank'>
-<img src='https://i.postimg.cc/SRtdrhgS/alexnet-training-loss.png'\
-     border='0'\
-     alt='alexnet-training-loss'/>
+     <img src='https://i.postimg.cc/cJ0fS47J/losses-alexnet-30epochs.png'\ 
+          border='0'\ 
+          alt='losses-alexnet-30epochs'/>
 </a>
