@@ -26,7 +26,7 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 
 <h2> Metric Plots for AlexNet Training </h2>
 
-<head>
+<!--head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Accuracy Evolution </title>
@@ -37,7 +37,7 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
             transform-origin: top left; 
         }
     </style>
-</head>
+</head-->
 <body>   
      <h2> Accuracy Evolution </h2>
      <a href='https://postimages.org/' target='_blank'>
