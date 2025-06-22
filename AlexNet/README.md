@@ -24,9 +24,7 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <h2><li> Dataset: Fashion MNIST </li></h2>
 <br>
 <h2> Model Plot </h2>
-<a href='https://postimg.cc/ZvzqNMg3' target='_blank'>
-    <img src='https://i.postimg.cc/yxk3Mqyf/plot-model-alexnet.png' border='0' alt='plot-model-alexnet'/>
-</a>
+<img src='./plot_model_alexnet.png' border='0' alt='plot-model-alexnet'/>
     
 <h2> Metric Plots for AlexNet Training </h2>
 <!--head>
