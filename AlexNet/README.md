@@ -25,7 +25,10 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <br>
 <h2> $$\color{yellow}\text{AlexNet architecture illustrating the layer-by-layer structure of the neural network model.}$$ </h2>
 <img src='./plot_model_alexnet.png' border='0' alt='plot-model-alexnet'/>
-    
+
+<h2> $$\color{yellow}\text{Neural-Net architecture}$$ </h2>
+<img src='./nn_architecture_alexnet.png' border='0' alt='plot-model-alexnet'/>
+
 <h2> $$\color{yellow}\text{Metric Plots for AlexNet Training}$$ </h2>
 <!--head>
     <meta charset="UTF-8">
