@@ -23,7 +23,7 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 
 <h2><li> Dataset: Fashion MNIST </li></h2>
 <br>
-<h2> AlexNet architecture illustrating the layer-by-layer structure of the neural network model. </h2>
+<h2> $$\color{yellow} AlexNet architecture illustrating the layer-by-layer structure of the neural network model.$$ </h2>
 <img src='./plot_model_alexnet.png' border='0' alt='plot-model-alexnet'/>
     
 <h2> Metric Plots for AlexNet Training </h2>
