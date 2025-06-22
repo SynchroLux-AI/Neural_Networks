@@ -25,12 +25,27 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <li> Dataset: Fashion MNIST </li><br>
 
 <h2> Metric Plots for AlexNet Training </h2>
-<a href='https://postimages.org/' target='_blank'>
-<img src='https://i.postimg.cc/3NRBHJTG/accuracy-alexnet-30epochs.png'\ 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Accuracy Evolution </title>
+    <style>
+        .scaled-image {
+            transform: scale(0.7); /* Scale factor of 1.5 */
+            /* Optional: Set the transform origin if needed */
+            transform-origin: top left; 
+        }
+    </style>
+</head>
+<body>   
+     <a href='https://postimages.org/' target='_blank'></a>
+     <img src='https://i.postimg.cc/3NRBHJTG/accuracy-alexnet-30epochs.png'\ 
      border='0'\
      alt='accuracy-alexnet-30epochs'\
      style="width: 35%; height: auto; display: block; margin: 0 auto;" />
-</a><br><br>
+     <br><br>    
+</body>
 
 <a href='https://postimages.org/' target='_blank'>
 <img src='https://i.postimg.cc/6QBssvS5/precision-30epochs-alexnet.png'\
