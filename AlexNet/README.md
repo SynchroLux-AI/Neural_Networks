@@ -43,7 +43,9 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
     </style>
 </head-->
 <body>   
-     <h2> Accuracy Evolution <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HLrmG0X4/new-star.png' border='0' alt='new-star'/></a></h2>
+     <h2> Accuracy Evolution <a href='https://postimages.org/' target='_blank'>
+  <img src='https://i.postimg.cc/HLrmG0X4/new-star.png' border='0' alt='new-star' width='50'/>
+</a></h2>
      <a href='https://postimages.org/' target='_blank'>
      <!--img src='https://i.postimg.cc/3NRBHJTG/accuracy-alexnet-30epochs.png' border='0' alt='accuracy-alexnet-30epochs'/></a-->
      <img src='./accuracy_alexnet_v4.png' border='0' alt='accuracy-alexnet-30epochs'/></a>
