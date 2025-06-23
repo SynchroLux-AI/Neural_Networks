@@ -47,19 +47,18 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
   <img src='https://i.postimg.cc/HLrmG0X4/new-star.png' border='0' alt='new-star' width='50'/>
 </a></h2>
      <a href='https://postimages.org/' target='_blank'>
-     <!--img src='https://i.postimg.cc/3NRBHJTG/accuracy-alexnet-30epochs.png' border='0' alt='accuracy-alexnet-30epochs'/></a-->
-     <img src='./accuracy_alexnet_v4.png' border='0' alt='accuracy-alexnet-30epochs'/></a>
+     <img src='./accuracy_alexnet_v5.png' border='0' alt='accuracy-alexnet-30epochs'/></a>
     
-<h2> Precision Evolution </h2>
+<h2> Precision Evolution <a href='https://postimages.org/' target='_blank'>
+  <img src='https://i.postimg.cc/HLrmG0X4/new-star.png' border='0' alt='new-star' width='50'/></h2>
 <a href='https://postimages.org/' target='_blank'>
-    <!--img src='https://i.postimg.cc/6QBssvS5/precision-30epochs-alexnet.png' border='0' alt='precision-30epochs-alexnet'/-->
-    <img src='./precision_alexnet_v4.png' border='0' alt='precision-30epochs-alexnet'/>
+    <img src='./precision_alexnet_v5.png' border='0' alt='precision-30epochs-alexnet'/>
 </a>
 <br>
 
-<h2> Training/Validation Loss Evolution </h2>
+<h2> Training/Validation Loss Evolution <a href='https://postimages.org/' target='_blank'>
+  <img src='https://i.postimg.cc/HLrmG0X4/new-star.png' border='0' alt='new-star' width='50'/></h2>
 <a href='https://postimages.org/' target='_blank'>
-     <!--img src='https://i.postimg.cc/cJ0fS47J/losses-alexnet-30epochs.png' border='0' alt='losses-alexnet-30epochs'/-->
-     <img src='./losses_alexnet_v4.png' border='0' alt='losses-alexnet-30epochs'/>
+    <img src='./losses_alexnet_v5.png' border='0' alt='losses-alexnet-30epochs'/>
 </a>
 </body>
