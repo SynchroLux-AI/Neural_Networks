@@ -62,4 +62,8 @@ AlexNet's success on ImageNet was a watershed moment, proving the efficacy of de
 <a href='https://postimages.org/' target='_blank'>
     <img src='./losses_alexnet_v5.png' border='0' alt='losses-alexnet-30epochs'/>
 </a>
+
+<h2> Recall and F1-Score Evolution </h2>
+<img src='./recall_f1-score.png' border='0' alt='recall_f1-score'/>
+</a>    
 </body>
