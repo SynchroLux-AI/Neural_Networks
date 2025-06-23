@@ -1,4 +1,4 @@
-<p><h2>$\color{yellow}\text{Last Updated: Jun 22, 2025}$</h2></p>
+<p><h2>$\color{yellow}\large\text{Last Updated: Jun 22, 2025}$</h2></p>
 <center><h1> AlexNet </h1></center>
 
 AlexNet is a pioneering convolutional neural network (CNN) architecture that revolutionized the field of computer vision. Developed by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in 2012, it famously won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) by a significant margin, demonstrating the unprecedented power of deep learning for image classification.
