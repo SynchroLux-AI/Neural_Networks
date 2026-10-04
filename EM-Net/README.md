@@ -20,4 +20,4 @@ Grounding the models in materials physics and quantifying uncertainty keeps pred
 By unifying data across modalities, this work aims to turn isolated micrographs into a coherent, reusable metrology resource---accelerating materials discovery and enabling robust, 
 reproducible analysis from laboratory to industrial scale.
 
-<h2> $\square$ $\textbf{Collaborating institutions}$: Seoul National University, Korea Institute of Science and Technology (KIST), and SynchroLux </h2>
+<h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University, Korea Institute of Science and Technology (KIST), and SynchroLux </h2>
