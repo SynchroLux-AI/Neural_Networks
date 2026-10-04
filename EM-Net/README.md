@@ -1,7 +1,6 @@
 <h1>$\color{lightyellow}{\text{A Unified, Deep-Learning Pipeline for Cross-Modality}}$</h1>
 <h1>$\color{lightyellow}{\text{Electron-Microscopy Metrology of Nanoparticles}}$ </h1>
-<h2> $\square$ ![GitHub Stars](https://img.shields.io/github/stars/username/repo?style=social)
- Period: July 2026 ~ </h2>
+<h2> $\square$ Period: July 2026 ~ </h2>
 
 Electron microscopy is central to materials and soft-matter research, yet extracting quantitative, comparable information across instruments and imaging modalities remains a persistent bottleneck. 
 SEM, TEM, STEM, and tomography each encode structure differently---different contrast mechanisms, resolutions, noise statistics, and detector responses---so measurements are rarely transferable between them.
@@ -21,4 +20,4 @@ Grounding the models in materials physics and quantifying uncertainty keeps pred
 By unifying data across modalities, this work aims to turn isolated micrographs into a coherent, reusable metrology resource---accelerating materials discovery and enabling robust, 
 reproducible analysis from laboratory to industrial scale.
 
-Collaborating institutions: Seoul National University and Korea Institute of Science and Technology
+$\square$ $\textbf{Collaborating institutions}$: Seoul National University, Korea Institute of Science and Technology (KIST), and SynchroLux
