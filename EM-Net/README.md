@@ -1,5 +1,4 @@
-<h2>$\color{yellow}
-  A Unified, Deep-Learning Pipeline for \\Cross-Modality Electron-Microscopy Metrology of Nanoparticles$ </h2>
+<h2> A Unified, Deep-Learning Pipeline for Cross-Modality Electron-Microscopy Metrology of Nanoparticles </h2>
 <h2> Period: July 2026 ~ </h2>
 
 Electron microscopy is central to materials and soft-matter research, yet extracting quantitative, comparable information across instruments and imaging modalities remains a persistent bottleneck. 
