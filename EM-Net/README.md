@@ -1,4 +1,4 @@
-<h2 style="color: yellow;">$\color{yellow} {\fontfamily{pcr}\selectfont{
+<h2 style="color: yellow;">$\color{yellow} {\fontfamily{courier}\selectfont{
   A Unified, Deep-Learning Pipeline for Cross-Modality Electron-Microscopy Metrology of Nanoparticles$} </h2>
 <h2> Period: July 2026 ~ </h2>
 
