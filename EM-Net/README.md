@@ -1,4 +1,4 @@
-<img src="https://drive.proton.me/urls/ACGMJM4KS8#7FEeuDYYE4mg" alt="New Star" width="40%">
+<img src="https://drive.proton.me/urls/ACGMJM4KS8#7FEeuDYYE4mg" alt="New Star" width="40%"/>
 
 <h1>$\color{lightyellow}{\text{A Unified, Deep-Learning Pipeline for Cross-Modality}}$</h1>
 <h1>$\color{lightyellow}{\text{Electron-Microscopy Metrology of Nanoparticles}}$ </h1>
