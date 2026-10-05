@@ -24,4 +24,4 @@ reproducible analysis from laboratory to industrial scale.
 
 <h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University, Korea Institute of Science and Technology (KIST), and SynchroLux </h2>
 
-<img src='./emnet_classifications.png' border='0' alt='emnet classification' />
+<img src='./emnet_classification.png' border='0' alt='emnet classification' />
