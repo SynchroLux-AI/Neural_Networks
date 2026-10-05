@@ -1,5 +1,5 @@
 <img
-  src="https://drive.proton.me/urls/4TPCNZ3Z7G#r0CJNPwQMAft"
+  src="https://drive.proton.me/urls/ACGMJM4KS8#7FEeuDYYE4mg"
   alt="New Star"
   width="40%">
 
