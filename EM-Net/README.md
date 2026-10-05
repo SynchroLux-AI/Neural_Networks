@@ -23,3 +23,5 @@ By unifying data across modalities, this work aims to turn isolated micrographs 
 reproducible analysis from laboratory to industrial scale.
 
 <h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University, Korea Institute of Science and Technology (KIST), and SynchroLux </h2>
+
+<img src='./emnet_classifications.png' border='0' alt='New star' width='40%'>
