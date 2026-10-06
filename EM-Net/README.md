@@ -19,9 +19,9 @@ Our goals are threefold:
 (iii) deliver calibrated, interpretable predictions linking microscopy to mechanical, chemical, optical, and rheological properties.
 Grounding the models in materials physics and quantifying uncertainty keeps predictions trustworthy and actionable.
 
-By unifying data across modalities, this work aims to turn isolated micrographs into a coherent, reusable metrology resource---accelerating materials discovery and enabling robust, 
+By unifying data across modalities, this work aims to turn isolated grayscale micrographs into a coherent, reusable metrology resource---accelerating materials discovery and enabling robust, 
 reproducible analysis from laboratory to industrial scale.
 
-<h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University, Korea Institute of Science and Technology (KIST), and SynchroLux </h2>
+<h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University and SynchroLux </h2>
 
-<img src='./emnet_classification.png' border='0' alt='emnet classification' />
+<img src='./emnet_classification.png' border='0' alt='emnet classification' width='80%' />
