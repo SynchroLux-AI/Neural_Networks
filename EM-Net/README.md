@@ -24,4 +24,5 @@ reproducible analysis from laboratory to industrial scale.
 
 <h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University and SynchroLux </h2>
 
+<b> EMNet Classification </b><br>
 <img src='./emnet_classification.png' border='0' alt='emnet classification' width='80%' />
