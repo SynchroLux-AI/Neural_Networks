@@ -28,7 +28,7 @@ reproducible analysis from laboratory to industrial scale.
 <b> EMNet Regression Plot Model </b><br>
 <!--img src='./emnet_classification.png' border='0' alt='emnet classification' width='80%' /-->
 
-<img src='./emnet_regression_plot_model.png' border='0' alt='emnet classification' scale='60%' />
+<img src='./emnet_tf_regression_plot_model.png' border='0' alt='emnet classification' scale='60%' />
 
 <b> EMNet Classification Plot Model </b><br>
-<img src='./emnet_classification_plot_model.png' border='0' alt='emnet classification' scale='60%' />
+<img src='./emnet_tf_classification_plot_model.png' border='0' alt='emnet classification' scale='60%' />
