@@ -1,5 +1,6 @@
 <!--img src='blob:https://drive.proton.me/d8ad66b1-f98e-4835-9e1a-7599af2c35c5' border='0' alt='New star' width='40%' -->
-<h1><b>NB:</b>$\color{yellow}{\text{This page is work in progress <br>as the electron microscopy imaging + analysis evolves.}}$</h1><br>
+<h1><b>NB:</b>$\color{yellow}{\text{This page is work in progress}}$ <br>
+  $\color{yellow}{\text{as the electron microscopy imaging + analysis evolves.}}$</h1><br>
 <h1>$\color{lightyellow}{\text{A Unified, Deep-Learning Pipeline for Cross-Modality}}$</h1>
 <h1>$\color{lightyellow}{\text{Electron-Microscopy Metrology of Nanoparticles}}$ </h1>
 <h2> $\square$ Period: July 2026 ~ </h2>
