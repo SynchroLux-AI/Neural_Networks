@@ -23,9 +23,12 @@ Grounding the models in materials physics and quantifying uncertainty keeps pred
 By unifying data across modalities, this work aims to turn isolated grayscale micrographs into a coherent, reusable metrology resource---accelerating materials discovery and enabling robust, 
 reproducible analysis from laboratory to industrial scale.
 
-<h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University and SynchroLux </h2>
+<h2> $\square$ $\textbf{Collaborating Institutions}$: Seoul National University and SynchroLux </h2><br>
 
-<!--b> EMNet Classification </b><br>
-<img src='./emnet_classification.png' border='0' alt='emnet classification' width='80%' /-->
+<b> EMNet Regression Plot Model </b><br>
+<!--img src='./emnet_classification.png' border='0' alt='emnet classification' width='80%' /-->
 
-<img src='./emnet_tf.png' border='0' alt='emnet classification' scale='60%' />
+<img src='./emnet_regression_plot_model.png' border='0' alt='emnet classification' scale='60%' />
+
+<b> EMNet Classification Plot Model </b><br>
+<img src='./emnet_classification_plot_model.png' border='0' alt='emnet classification' scale='60%' />
